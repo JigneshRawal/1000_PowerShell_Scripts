@@ -1,1 +1,1 @@
-This Repo is for 1000 Small Powershell Scripts for Beginners.
+This Repo is for 1000 Powershell + Azure PS scripts for Beginners.
