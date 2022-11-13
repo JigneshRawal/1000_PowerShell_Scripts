@@ -1,2 +1,2 @@
 ﻿$folderName = 'NewFolderThroughPS';
-New-Item -Path  "$($pwd)-$($folderName)" -ItemType Directory
+New-Item -Path  $folderName -ItemType Directory
