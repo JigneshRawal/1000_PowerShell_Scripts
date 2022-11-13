@@ -7,3 +7,4 @@ Remove-Item 'Folder1'
 }else{
 Write-host 'Folder1 to be deleted does not exist'
 }
+#user -Recurse to recursively delete all the folders.
